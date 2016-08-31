@@ -18,6 +18,9 @@
 gtest
 gtest-1.7.0
 
+# Ignore Intermediaries dir created by BuildBot
+[Ii]ntermediaries
+
 # Other build artifacts
 /Debug
 /visualc/Debug
